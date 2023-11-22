@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **REACT.JS NODE.JS JAVASCRIPT....**
 
-- 📫 How to reach me - cnpatil00@gmail.com*
+- 📫 How to reach me - cnpatil00@gmail.com
 - Portfolio - https://chetn11.github.io/
 
  
