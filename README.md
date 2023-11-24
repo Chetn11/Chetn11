@@ -14,7 +14,7 @@ I'm a strong communicator and a team player who values transparency, empathy, an
 
 <img  align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" /> 
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Chetn11&label=Profile%20views&color=0e75b6&style=flat" alt="Chetn11" /> </p>
 
 
 - 🌱 I’m currently learning **Full Stack Web Development**
